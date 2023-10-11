@@ -39,4 +39,3 @@ workspaces = {
     project_name      = ""
   }
 }
-
