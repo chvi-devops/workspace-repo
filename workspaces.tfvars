@@ -1,9 +1,10 @@
 unique_var_sets = [
-  "Environment Variables for PROD tenant - Tier 1 SPN ",
-  "Environment Variables for TEST tenant - Tier 1 SPN",
-  "Azure Service Principle Test Tenant"
+  "Environment Variables main"
 ]
 
+unique_projects = [
+  "Default Project"
+]
 workspaces = {
   sample-1 = {
     name              = "sample-1"
