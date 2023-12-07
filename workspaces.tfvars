@@ -1,10 +1,13 @@
 unique_var_sets = [
-  "Environment Variables main"
+  "Environment Variables main",
+  "Environment Variable 2"
 ]
 
 unique_projects = [
-  "Default Project"
+  "Default Project",
+  "Second Project"
 ]
+
 workspaces = {
   sample-1 = {
     name              = "sample-1"
